@@ -1,4 +1,4 @@
-# Xel_F5
+# ProgressBar-2.0
  [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
  This script is a rework of the inital progressBar for fivem made by EthanPeacock
